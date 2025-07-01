@@ -17,6 +17,7 @@ This project is a responsive AppStore where users can :
 * fix navbar and footar user info after page reload
 * protect private routes with custom PrivateRoute
 * add trending app section in homepage
+* add loading spinner for user state during auth check
 
 ## 🌐 Live Site 
 👉 
