@@ -1,0 +1,278 @@
+[
+  {
+    "id": "app001",
+    "name": "Task Manager Pro",
+    "developer": "Boost Productivity Ltd.",
+    "thumbnail": "https://i.postimg.cc/vZP9z5my/produc-Logo1.jpg",
+    "banner": "https://i.postimg.cc/3NBQG8FL/productivity4.jpg",
+    "downloads": "6,800,000",
+    "category": "Productivity",
+    "rating": 4.7,
+    "description": "Manage your daily tasks efficiently and never miss a deadline with Task Manager Pro.",
+    "features": [
+      "Daily task scheduling",
+      "Reminders and deadlines",
+      "Progress tracking"
+    ],
+    "reviews": [
+      {
+        "user": "tasklover",
+        "rating": 5,
+        "comment": "Helps me stay organized and productive every day!"
+      }
+    ]
+  },
+  {
+    "id": "app002",
+    "name": "Note Keeper",
+    "developer": "Productivity Tools",
+    "thumbnail": "https://i.postimg.cc/YShFyj4W/product-Logo2.jpg",
+    "banner": "https://i.postimg.cc/wTwdTBvM/productivity3.jpg",
+    "downloads": "4,900,000",
+    "category": "Productivity",
+    "rating": 4.4,
+    "description": "Quickly jot down notes, ideas, and to-do lists with Note Keeper.",
+    "features": [
+      "Cloud sync",
+      "Color-coded notes",
+      "Secure lock option"
+    ],
+    "reviews": [
+      {
+        "user": "quickwriter",
+        "rating": 2,
+        "comment": "Simple and easy to use. Very handy for everyday tasks."
+      }
+    ]
+  },
+  {
+    "id": "app003",
+    "name": "Mind Focus",
+    "developer": "Focus Lab",
+    "thumbnail": "https://i.postimg.cc/7LdzvD7Q/product-Logo3.jpg",
+    "banner": "https://i.postimg.cc/HsYggMTF/productivity2.jpg",
+    "downloads":"15,500,000",
+    "category": "Productivity",
+    "rating": 4.6,
+    "description": "Improve your focus and productivity with Mind Focus.",
+    "features": [
+      "Focus timer",
+      "Session tracking",
+      "Productivity reports"
+    ],
+    "reviews": [
+      {
+        "user": "focusfan",
+        "rating": 3,
+        "comment": "Love this app! Keeps me focused during work hours."
+      }
+    ]
+  },
+  {
+    "id": "app010",
+    "name": "Time Planner",
+    "developer": "Smart Productivity Co.",
+    "thumbnail": "https://i.postimg.cc/W1GJ5nRF/producti-Logo6.jpg",
+    "banner": "https://i.postimg.cc/4yTXtFk3/productivity1.jpg",
+    "downloads": "12,200,000",
+    "category": "Productivity",
+    "rating": 4.5,
+    "description": "Plan your day and manage your time efficiently with Time Planner.",
+    "features": [
+      "Time blocking",
+      "Task prioritization",
+      "Daily summaries"
+    ],
+    "reviews": [
+      {
+        "user": "plannerpro",
+        "rating": 2,
+        "comment": "Great app for organizing my daily routine!"
+      }
+    ]
+  },
+  {
+    "id": "app004",
+    "name": "Health Tracker",
+    "developer": "Wellness Corp.",
+    "thumbnail": "https://i.postimg.cc/76hd442p/health-Logo7.jpg",
+    "banner": "https://i.postimg.cc/y6TTRCBw/health5.jpg",
+    "downloads": "77,600,000",
+    "category": "Health",
+    "rating": 4.7,
+    "description": "Track your daily health activities, steps, and calories with Health Tracker.",
+    "features": [
+      "Step counter",
+      "Calorie tracker",
+      "Daily health reports"
+    ],
+    "reviews": [
+      {
+        "user": "healthylife",
+        "rating": 4,
+        "comment": "Very accurate and easy to use for daily health tracking."
+      }
+    ]
+  },
+  {
+    "id": "app005",
+    "name": "Fit Body",
+    "developer": "Fitness Zone",
+    "thumbnail": "https://i.postimg.cc/t4RLkFgq/health-Logo8.jpg",
+    "banner": "https://i.postimg.cc/brLHfk3z/health4.jpg",
+    "downloads": "13,100,000",
+    "category": "Health",
+    "rating": 4.8,
+    "description": "Get a fit and healthy body with our expert workout plans and diet suggestions.",
+    "features": [
+      "Workout plans",
+      "Diet guides",
+      "Progress tracking"
+    ],
+    "reviews": [
+      {
+        "user": "fitlover",
+        "rating": 2,
+        "comment": "Helped me start a healthy routine. Great workouts!"
+      }
+    ]
+  },
+  {
+    "id": "app006",
+    "name": "Healthy Life",
+    "developer": "Wellness Studio",
+    "thumbnail": "https://i.postimg.cc/Cx2whK1Y/health-Logo4.jpg",
+    "banner": "https://i.postimg.cc/7hqMRm1s/health3.jpg",
+    "downloads": "22,900,000",
+    "category": "Health",
+    "rating": 4.5,
+    "description": "Stay healthy with personalized tips, exercise videos, and daily motivation.",
+    "features": [
+      "Daily health tips",
+      "Exercise videos",
+      "Personalized suggestions"
+    ],
+    "reviews": [
+      {
+        "user": "healthfan",
+        "rating": 3,
+        "comment": "Very informative and motivating. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "id": "app011",
+    "name": "Yoga Buddy",
+    "developer": "Fitness Zen",
+    "thumbnail": "https://i.postimg.cc/1thPFYwj/health-Logo5.jpg",
+    "banner": "https://i.postimg.cc/XJfkxT5B/health1.jpg",
+    "downloads": "35,400,000",
+    "category": "Health",
+    "rating": 4.6,
+    "description": "Achieve physical and mental wellness with daily yoga sessions.",
+    "features": [
+      "Yoga video tutorials",
+      "Relaxation music",
+      "Progress tracker"
+    ],
+    "reviews": [
+      {
+        "user": "yogalover",
+        "rating": 4,
+        "comment": "Perfect for home workouts and relaxation."
+      }
+    ]
+  },
+  {
+    "id": "app007",
+    "name": "Programming Hero",
+    "developer": "Programming Hero Ltd.",
+    "thumbnail": "https://i.postimg.cc/K4hm4j7K/education-Logo8.jpg",
+    "banner": "https://i.postimg.cc/d08s0Bdj/education1.jpg",
+    "downloads":  "99,800,000",
+    "category": "Education",
+    "rating": 4.4,
+    "description": "Programming Hero is a fun and interactive way to learn programming.",
+    "features": [
+      "Interactive coding lessons",
+      "Real-world projects",
+      "Gamified learning experience"
+    ],
+    "reviews": [
+      {
+        "user": "coder_nadia",
+        "rating": 2,
+        "comment": "Best app for beginners! The lessons are super easy to follow."
+      }
+    ]
+  },
+  {
+    "id": "app008",
+    "name": "EduMaster",
+    "developer": "EduTech Solutions",
+    "thumbnail": "https://i.postimg.cc/TPhs7Y2L/education-Logo2.jpg",
+    "banner": "https://i.postimg.cc/d16J2V57/education2.jpg",
+    "downloads": "66,300,000",
+    "category": "Education",
+    "rating": 4.5,
+    "description": "EduMaster offers a wide range of courses from science to arts with expert instructors.",
+    "features": [
+      "Video lectures",
+      "Quizzes and assignments",
+      "Certificate of completion"
+    ],
+    "reviews": [
+      {
+        "user": "learner123",
+        "rating": 5,
+        "comment": "Very helpful app, covers a lot of topics with depth."
+      }
+    ]
+  },
+  {
+    "id": "app009",
+    "name": "Language Learner",
+    "developer": "Global Learn Co.",
+    "thumbnail": "https://i.postimg.cc/yN5bw4Wf/education-Logo3.jpg",
+    "banner": "https://i.postimg.cc/RF4MJHL5/education3.jpg",
+    "downloads": "45,100,000",
+    "category": "Education",
+    "rating": 4.3,
+    "description": "Learn new languages quickly and effectively with interactive lessons.",
+    "features": [
+      "Vocabulary practice",
+      "Listening and speaking exercises",
+      "Flashcards and quizzes"
+    ],
+    "reviews": [
+      {
+        "user": "polyglot",
+        "rating": 3,
+        "comment": "Great for learning languages on the go!"
+      }
+    ]
+  },
+  {
+    "id": "app012",
+    "name": "Skill Up",
+    "developer": "LearnPro",
+    "thumbnail": "https://i.postimg.cc/26ZKYcZC/education-Logo4.jpg",
+    "banner": "https://i.postimg.cc/d30w4cf5/education4.jpg",
+    "downloads": "54,500,000",
+    "category": "Education",
+    "rating": 4.4,
+    "description": "Enhance your skills with practical courses in tech, design, and business.",
+    "features": [
+      "Interactive assignments",
+      "Expert-led tutorials",
+      "Career-focused learning"
+    ],
+    "reviews": [
+      {
+        "user": "skillseeker",
+        "rating": 5,
+        "comment": "Excellent platform to upskill quickly and effectively."
+      }
+    ]
+  }
+]
