@@ -18,6 +18,7 @@ This project is a responsive AppStore where users can :
 * protect private routes with custom PrivateRoute
 * add trending app section in homepage
 * add loading spinner for user state during auth check
+* responsive layout for mobile and tablet
 
 ## 🌐 Live Site 
 👉 
