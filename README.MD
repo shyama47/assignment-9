@@ -16,6 +16,7 @@ This project is a responsive AppStore where users can :
 * add review submit form with star rating
 * fix navbar and footar user info after page reload
 * protect private routes with custom PrivateRoute
+* add trending app section in homepage
 
 ## 🌐 Live Site 
 👉 
