@@ -13,6 +13,7 @@ This project is a responsive AppStore where users can :
 * create navber component
 * implement firebase authentication with login and logout
 * design responsive app card UI
+* add review submit form with star rating
 
 ## 🌐 Live Site 
 👉 
