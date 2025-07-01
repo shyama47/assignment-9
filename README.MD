@@ -8,6 +8,11 @@ This project is a responsive AppStore where users can :
 - Submit review
 - Securely login/logout via Firebase
 
+
+##  github 10 meaningfull commit 
+* create navber component
+* implement firebase authentication with login and logout
+
 ## 🌐 Live Site 
 👉 
 
