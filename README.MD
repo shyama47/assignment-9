@@ -19,9 +19,10 @@ This project is a responsive AppStore where users can :
 * add trending app section in homepage
 * add loading spinner for user state during auth check
 * responsive layout for mobile and tablet
+* prepare project for deployment and add env config
 
 ## 🌐 Live Site 
-👉 
+👉 https://app-store-project-70bf5.web.app
 
 ## ⚙️ Key Features
 - Firebase Authentication
