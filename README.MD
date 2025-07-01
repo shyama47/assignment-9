@@ -15,6 +15,7 @@ This project is a responsive AppStore where users can :
 * design responsive app card UI
 * add review submit form with star rating
 * fix navbar and footar user info after page reload
+* protect private routes with custom PrivateRoute
 
 ## 🌐 Live Site 
 👉 
