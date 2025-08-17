@@ -61,7 +61,7 @@ const Contact = () => {
 						</div>
 					</div>
 				</div>
-				<form onSubmit={handleSubmit} className="flex flex-col py-6 space-y-6 md:py-10 md:px-10 border rounded-2xl border-gray-300 shadow-2xl mb-10 bg-white">
+				<form onSubmit={handleSubmit} className="flex flex-col py-6 space-y-6 md:py-10 px-5 md:px-10 border rounded-2xl border-gray-300 shadow-2xl mb-10 bg-white">
 					<label className="block">
 						<span className="mb-1">Full name</span>
 						<input type="text" placeholder="user name" required name='name' className="block w-full rounded-md shadow-sm border border-gray-300 px-2 py-3" />

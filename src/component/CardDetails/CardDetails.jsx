@@ -16,7 +16,7 @@ const CardDetails = ({ catchData }) => {
     const { name, developer, thumbnail, banner, downloads, category, rating, description, features, reviews } = catchData;
     return (
         
-       <div className="min-h-screen bg-gray-100 p-4 md:p-8">
+       <div className="p-4 md:p-8">
             <div className="max-w-4xl mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
                 
                 {/* Banner Section */}

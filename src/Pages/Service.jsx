@@ -3,11 +3,11 @@ import { Helmet } from 'react-helmet-async';
 
 const Service = () => {
     return (
-        <section className='my-10 max-w-9/12 mx-auto'>
+        <section className='my-10 w-11/12 md:max-w-9/12 mx-auto'>
                     <Helmet>
                         <title>TermsOfservice || page</title>
                     </Helmet>
-                    <h1 className='text-center text-blue-700 font-bold text-2xl'>Terms of Service</h1>
+                    <h1 className='text-left md:text-center text-blue-700 font-bold text-2xl'>Terms of Service</h1>
                     <p className='my-7'>Welcome to App Store BD! By accessing our website and using our services, you agree to be bound by the following Terms of Service. Please read them carefully.</p>
                     <div className='space-y-4'>
                         <h1 className='text-blue-500 text-2xl font-bold'>1. Acceptance of Terms</h1>

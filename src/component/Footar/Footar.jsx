@@ -5,7 +5,7 @@ import { NavLink } from 'react-router';
 const Footar = () => {
     return (
        <footer>
-	<div className="container flex flex-col justify-between px-4  py-10 mx-auto space-y-8 lg:flex-row lg:space-y-0 bg-gray-50 border-t-1">
+	<div className="flex flex-col justify-between px-4  py-10  space-y-8 md:flex-row md:space-y-0 bg-gray-50 border-t-2 border-gray-200">
 		<div className="lg:w-1/3">
 				<span className="text-2xl font-semibold text-blue-800">App Store BD</span>
 			<p className=' mt-3 w-[350px]'> An App Store is a digital distribution platform that serves as a centralized marketplace for software application.</p>
@@ -51,7 +51,7 @@ const Footar = () => {
 			</div>
 		</div>
 	</div>
-	<div className="py-6 text-sm text-gray-500 text-left pl-3 md:text-center bg-gray-300">© 2025 App Store Bd. All rights reserved.</div>
+	<div className="py-6 text-sm text-gray-500  pl-3 text-center bg-gray-300">© 2025 App Store Bd. All rights reserved.</div>
 </footer>
     );
 };

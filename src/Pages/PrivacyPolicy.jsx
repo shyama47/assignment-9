@@ -3,11 +3,11 @@ import { Helmet } from 'react-helmet-async';
 
 const PrivacyPolicy = () => {
     return (
-        <section className='my-10 max-w-9/12 mx-auto'>
+        <section className='my-10 w-11/12 md:max-w-9/12 mx-auto'>
             <Helmet>
                 <title>privacy || page</title>
             </Helmet>
-            <h1 className='text-center text-blue-700 font-bold text-2xl'>Privacy Policy</h1>
+            <h1 className='text-left md:text-center text-blue-700 font-bold text-2xl'>Privacy Policy</h1>
             <p className='my-7'>At App Store BD, your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your personal information.</p>
             <div className='space-y-4'>
                 <h1 className='text-blue-500 text-2xl font-bold'>1. Information We Collect</h1>

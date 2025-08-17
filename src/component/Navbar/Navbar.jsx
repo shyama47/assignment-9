@@ -26,7 +26,7 @@ const Navbar = () => {
     <NavLink className={({ isActive }) => (isActive ? 'md:text-blue-700 md:border-b-2 md:pb-2 md:rounded-box' : '')} to='/about'>About Us</NavLink>
   </div>
   return (
-    <div className="navbar bg-base-100 shadow-sm px-1 md:px-20">
+    <div className="navbar bg-base-100 shadow-sm px-2 md:px-20 ">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden ">
